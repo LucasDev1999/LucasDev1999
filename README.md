@@ -3,7 +3,7 @@
 🎓 Estudando Python e desenvolvimento de aplicações com Streamlit  
 🚀 Criando projetos práticos para aprender e evoluir  
 📚 Apaixonado por tecnologia, código limpo e soluções simples  
-📫 Entre em contato: seuemail@email.com
+📫 Entre em contato: Lucas.mdt2004@gmail.com
 
 ## 🛠️ Tecnologias que estou aprendendo
 
